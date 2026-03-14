@@ -1,0 +1,1 @@
+This project is a C lab that practices system calls, typedefs, enums, file handling, and modular program structure. The project builds a utility library, compiles an application, reads pest data from an input file, and generates a pest level count report.
